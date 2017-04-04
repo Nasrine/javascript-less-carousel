@@ -1,4 +1,4 @@
-.carsoul-items > div {
+.carousel-items > div {
   display: none;
 }
 
@@ -18,5 +18,5 @@ display: block;
 #elasmotherium-control:checked ~ .carousel-inner [for="elasmotherium-control"],
 #glyptodon-control:checked ~ .carousel-inner [for="glyptodon-control"],
 #megatherium-control:checked ~ .carousel-inner [for="megatherium-control"]{
-  background-color: #ffff;
+  background-color: #fff;
 }
